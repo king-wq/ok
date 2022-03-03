@@ -1,0 +1,9 @@
+config.physics_mode: false
+config.raster: 
+created: 20220302124621819
+creator: TidGiUser
+isview: true
+modified: 20220302124628779
+modifier: TidGiUser
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Default
+type: text/vnd.tiddlywiki
